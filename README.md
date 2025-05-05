@@ -35,7 +35,7 @@ Champions League Fixture/
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/Amilali09/Champions-League-fixture-Project.git
+   git clone https://github.com/Amilali09/Champions-League-Fixture-Project.git
    - [View on GitHub](https://github.com/Amilali09/Champions-league-Fixture-Project)
    cd champions-league-fixture
    ```
